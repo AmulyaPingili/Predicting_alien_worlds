@@ -1,0 +1,1 @@
+Predicting Alien Worlds is a project which identifies Exoplanets from Nasa's Exoplanet Archieve and also predict habitability of the exoplanet from features contributing to habitability which are found from exploratory data analysis.
