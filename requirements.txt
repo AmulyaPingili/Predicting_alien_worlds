@@ -1,0 +1,29 @@
+# Data Handling
+pandas>=3.0.1
+requests>=2.32.5
+numpy>=2.4.3
+
+# Scientific & Math
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+imblearn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Deployment
+streamlit
+notebook
+ipykernel
+catboost
+lightgbm
+tensorflow
+optuna
+streamlit
+joblib
+altair
