@@ -81,7 +81,7 @@ STYLES = """
 }
 .stApp {
     background-color: #0c0c16;
-    background-image: url("/app/static/background.gif");
+    background-image: url("./app/static/background.gif");
     background-size: cover; background-position: center; background-attachment: fixed;
 }
 [data-testid="stAppViewContainer"] { background: rgba(8, 8, 20, 0.72); }
