@@ -4,7 +4,7 @@ A machine learning application that uses a **Physics-First** approach to identif
 
 ![Dashboard Preview](assets/hero.png)
 
-## 🚀 Instant Setup (Zero-Cost Deployment)
+## 🚀 Instant Setup 
 
 This repository is designed to be fully portable. The final trained model is pre-included in the `models/` directory, so you do **not** need to re-run the training or data ingestion scripts to explore the dashboard.
 
@@ -31,7 +31,7 @@ streamlit run app.py
 ## 🧠 Scientific Methodology
 - **Target Architecture**: LightGBM (Tuned via Optuna Bayesian Optimization).
 - **Physics Features**: Derived Insolation Flux (`pl_insol`), Stellar Luminosity, and Habitable Zone boundaries.
-- **Performance**: Achieved **1.0 F1-score** on the hold-out vetting set.
+- **Performance**: Achieved **0.9 F1-score** on the hold-out vetting set.
 
 ## 📁 Repository Structure
 - `app.py`: Main Streamlit dashboard source.
