@@ -1,7 +1,7 @@
 # ExoHabit: AI Exoplanet Habitability Predictor
 
-A machine learning application that uses a **Physics-First** approach to identify potentially habitable exoplanets from the NASA Planetary Systems Archive.
-
+A machine learning application that uses a **Physics and ML** approach to identify potentially habitable exoplanets from the NASA Planetary Systems Archive.
+Try live demo : https://predictingalienworlds-ap24.streamlit.app/
 ![Dashboard Preview](assets/hero.png)
 
 ## 🚀 Instant Setup 
